@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Your Name Here
+# Eric DelRosario
 
-[Paste your professional paragraph from Week 2 here]
+Eric DelRosario is an IT major pursuing a career in cybersecurity.  He is focused on understanding how networks, systems, and security tools work together to protect digital infrastructure. Through his coursework and hands on labs, he has developed a strong foundation in networking concepts, system administration, and basic security practices. He has experience working with Python, Linux, networking tools, and security fundamentals, and continues to build practical skills through projects and independent learning. He has shown his ability to analyze technical problems, apply security concepts, and develop solutions with a cybersecurity-focused mindset.
 
 ## Professional Writing Samples/Projects
 
