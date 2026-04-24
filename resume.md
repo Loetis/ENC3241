@@ -5,7 +5,7 @@ title: Resume
 
 # Resume
 
-Jimothy Cricket
+Eric DelRosario
 He/Him | Junior, Information Technology
 University of Smorgasbord | Greater Earth Area
 Email: hello@gmail.com| LinkedIn: linkedin.com/in/hi
